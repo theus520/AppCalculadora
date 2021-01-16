@@ -6,7 +6,7 @@ import {
 } from 'react-native'
 
 const styles = StyleSheet.create({
-    display:{
+    display: {
 flex: 1,
 padding: 20,
 justifyContent: 'center',

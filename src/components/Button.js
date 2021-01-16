@@ -3,7 +3,7 @@ import { StyleSheet, Text, Dimensions, TouchableHighlight } from 'react-native'
 
 const styles = StyleSheet.create({
     button: {
-        fontSize: 45,
+        fontSize: 40,
         height: Dimensions.get('window').width / 4,
 
         width: Dimensions.get('window').width / 4,
